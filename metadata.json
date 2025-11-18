@@ -1,0 +1,5 @@
+{
+  "name": "Trade Data Analysis Dashboard",
+  "description": "An interactive dashboard to upload, clean, and analyze import trade data for household and kitchen products. Provides year-wise summaries, HSN code analysis, and detailed unit economics, powered by an AI assistant for natural language insights.",
+  "requestFramePermissions": []
+}
